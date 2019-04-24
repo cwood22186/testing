@@ -1,3 +1,1 @@
-print("This file was created within RStudio")
-
-print('and now it lives in Git')
+print("I'm not sure what my password is")
